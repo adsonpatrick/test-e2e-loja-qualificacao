@@ -46,3 +46,25 @@ ___
 
 # Rodando o teste via pipeline - Github Actions 
 Configurei a pipeline para rodar automaticamente a cada commit realizado no código porém também deixei a opção para rodar a pipeline manualmente, segue instrução de como rodar de maneira manual.
+
+### 1 - Ao entrar no repositório clique na aba **Actions**
+
+![Actions](https://github.com/adsonpatrick/test-e2e-loja-qualificacao/blob/main/images/imagem%201.png?raw=true)
+
+### 2 - Na página de Actions clicar na opção End-to-end tests no menu esquerdo abaixo de Actions>All workflows.
+
+![End-to-end tests](https://github.com/adsonpatrick/test-e2e-loja-qualificacao/blob/main/images/imagem%202.png?raw=true)
+
+### 3 - Agora clique na opção Run workflow na parte direita da tela.
+
+![run workflow](https://github.com/adsonpatrick/test-e2e-loja-qualificacao/blob/main/images/imagem%203.png?raw=true)
+
+### 4 - Feito isso você pode acompanhar a pipeline clicando em End-to-end tests
+
+![end-to-end tests](https://github.com/adsonpatrick/test-e2e-loja-qualificacao/blob/main/images/imagem%204.png?raw=true)
+
+### 5 - Agora você pode clicar em test e verificar em tempo real se passou ou falhou
+
+![test](https://github.com/adsonpatrick/test-e2e-loja-qualificacao/blob/main/images/imagem%205.png?raw=true)
+
+
