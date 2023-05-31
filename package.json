@@ -1,0 +1,17 @@
+{
+  "name": "loja-qualificacao",
+  "version": "1.0.0",
+  "description": "Script de testes automatizados para website Loja Qualificação",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run": "cypress run"
+  },
+  "author": "Adson Patrique",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
+}
