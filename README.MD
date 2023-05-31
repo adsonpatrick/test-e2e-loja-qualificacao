@@ -35,7 +35,7 @@ ___
 # Fork e clone o projeto 🐑
 
 1. Abra o navegador
-2. Acesse a URL https://github.com/adsonpatrick/teste-e2e-conduit-skeelo
+2. Acesse a URL https://github.com/adsonpatrick/test-e2e-loja-qualificacao
 3. Faça um [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) do projeto.
 4. No seu fork do projeto, clique no botão **Code**, escolha uma opção de clone (HTTPS ou SSH) e copie o link de clone do projeto
 5. Em seu terminal de linha de comando (em uma pasta onde você armazene seus projetos de software), execute o comando `git clone [cole-o-link-copiado-aqui]`.
