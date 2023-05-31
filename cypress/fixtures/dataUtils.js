@@ -29,7 +29,7 @@ export const productRandom = [
     'Product VTPKPFHVGZ',
     'Product VXWROMEZHF',
     'Product YQSJDGRYSS'
-][Math.floor(Math.random() * 30) + 1]
+][Math.floor(Math.random() * 30)]
 
 export const randomNumber = Math.floor(Math.random() * 6) + 1
 
@@ -44,4 +44,4 @@ export const randomCEP = [
     '49042505',
     '69076448',
     '72863529'
-][Math.floor(Math.random() * 10) + 1]
+][Math.floor(Math.random() * 10)]
